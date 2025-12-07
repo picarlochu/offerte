@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Echo Dot",
+    "original_price": 59.99,
+    "discounted_price": 29.99,
+    "image_url": "https://m.media-amazon.com/images/I/61EXU8BuGZL._AC_SL1000_.jpg",
+    "amazon_url": "https://www.amazon.it"
+  },
+  {
+    "id": "2",
+    "title": "Fire TV Stick",
+    "original_price": 49.99,
+    "discounted_price": 24.99,
+    "image_url": "https://m.media-amazon.com/images/I/51CgKGfMelL._AC_SL1000_.jpg",
+    "amazon_url": "https://www.amazon.it"
+  },
+  {
+    "id": "3",
+    "title": "Cuffie Bluetooth",
+    "original_price": 89.99,
+    "discounted_price": 39.99,
+    "image_url": "https://m.media-amazon.com/images/I/61f1YfTkTDL._AC_SL1000_.jpg",
+    "amazon_url": "https://www.amazon.it"
+  }
+]
+
